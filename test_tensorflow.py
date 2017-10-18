@@ -1,3 +1,4 @@
+#! python
 # test_tensorflow.py
 
 import tensorflow as tf
